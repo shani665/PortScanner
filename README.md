@@ -10,3 +10,12 @@ pip install scapy
 How to run
 ```
 python3 /your/path/portscan.py
+
+```
+📜 License
+
+MIT License
+
+✨ Credits
+
+Built with 💻 by [Your Name] – for ethical hacking and learning.
