@@ -18,4 +18,4 @@ MIT License
 
 ✨ Credits
 
-Built with 💻 by [Your Name] – for ethical hacking and learning.
+Built with 💻 by [Shani Yadav] – for ethical hacking and learning.
