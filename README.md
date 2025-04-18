@@ -12,7 +12,7 @@ How to run
 python3 /your/path/portscan.py
 
 ```
-📜 License
+# 📜 License
 
 MIT License
 
